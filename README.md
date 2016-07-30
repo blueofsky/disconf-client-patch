@@ -1,8 +1,9 @@
 ##Disconf项目的功能增强##
-1. 特点
-* **支持加载不同env/app/version的文件**
-2. 使用
-* **支持加载不同env/app/version的文件**
+## 特点
+0. **支持加载不同env/app/version的文件**
+
+## 使用
+1. **支持加载不同env/app/version的文件**
 ```xml
 <bean id="configproperties_other_disconf" 
     class="com.baidu.disconf.client.addons.properties.FullQualifyPropertiesFactoryBean">
